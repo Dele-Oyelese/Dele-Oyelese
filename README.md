@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi there, my name is Dele Oyelese.
+
+I am a Master's of Software Engineering New Graduate open to new work experiences. I am passionate about analytic problem-solving and working within a team. I am looking for the next opportunity to challenge myself and learn new skills. 
+In my spare time, I enjoy running 🏃‍♂️, playing rugby 🏉 and writing code 💻
+
+If you have questions for me, please do not hesitate to reach out! :)
+* 📫 doyelese@gmail.com
+* 💻 https://www.linkedin.com/in/dele-/
+
 
 <!--
 **Dele-Oyelese/Dele-Oyelese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
